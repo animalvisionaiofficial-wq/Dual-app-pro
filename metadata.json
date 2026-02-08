@@ -1,0 +1,9 @@
+
+{
+  "name": "DualSpace Pro Admin & Dashboard",
+  "description": "A professional management dashboard and documentation hub for the DualSpace Pro Android app cloner, featuring simulated app cloning, performance tools, and comprehensive technical guides.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
